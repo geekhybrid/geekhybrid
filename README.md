@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello Wanderer 😎
+
+
+- 📫 How to reach me: https://linkedin.com/in/geekhybrid
+- ⏲️ I am available 30mins everyday to help anyone on any Vue or .NET project. Reach me via my mail hocahaenyi17@gmail.com
+- 👯 I’m looking to collaborate on open-source Vue components and infrastructure.
 
 <!--
 **geekhybrid/geekhybrid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
