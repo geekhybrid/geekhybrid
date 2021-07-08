@@ -2,7 +2,7 @@
 
 
 - 📫 How to reach me: https://linkedin.com/in/geekhybrid
-- ⏲️ I am available 30mins everyday to help anyone on any Vue or .NET project. Reach me via my mail hocahaenyi17@gmail.com
+- ⏲️ I am available 30mins everyday to help anyone on any Vue or .NET project for FREE. Reach me via my mail hocahaenyi17@gmail.com
 - 👯 I’m looking to collaborate on open-source Vue components and infrastructure.
 
 <!--
