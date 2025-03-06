@@ -1,7 +1,7 @@
 ### Hello Wanderer 😎
 
 
-- ⏲️ I am available 30mins everyday to help anyone on any Vue or .NET project for FREE. Reach me via my mail hocahaenyi17@gmail.com
+- ⏲️ I am available 30mins everyday to help anyone on any Vue for FREE. Reach me via my mail hocahaenyi17@gmail.com
 - 👯 I’m looking to collaborate on open-source Vue components and infrastructure.
 
 <!--
@@ -11,6 +11,5 @@ Here are some ideas to get you started:
 
 
 - 👯 I’m looking to collaborate on open-source vue components and infrastructure.
-- 📫 How to reach me: https://linkedin.com/in/geekhybrid
-- ⏲️ I am available 30mins everyday to help anyone on any Vue or .NET project.
+- ⏲️ I am available 30mins everyday to help anyone on any Vue
 -->
